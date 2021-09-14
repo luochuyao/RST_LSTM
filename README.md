@@ -6,7 +6,7 @@ The Reconstitution Predictive Network for Precipitation Nowcasting, by Chuyao Lu
 
 # Setup
 
-Required python libraries: torch (>=1.7.0) + opencv + numpy + scipy (== 1.0.0) + jpype1.
+Required python libraries: torch (>=1.7.0) + opencv + numpy + jpype1.
 Tested in ubuntu + nvidia 3090 Ti with cuda (>=11.0).
 
 # Datasets
